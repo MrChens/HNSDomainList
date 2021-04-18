@@ -24,7 +24,23 @@ List my friend owend HNS domain for selling
 21. [2exchange](https://www.namebase.io/domains/2exchange)
 22. [mikeash](https://www.namebase.io/domains/mikeash)
 23. [wishyourich](https://www.namebase.io/domains/wishyourich)
-24. [](https://www.namebase.io/domains/)
+24. [desgard](https://www.namebase.io/domains/desgard)
+25. [draveness](https://www.namebase.io/domains/draveness)
+26. [smics](https://www.namebase.io/domains/smics)
+27. [g-bits](https://www.namebase.io/domains/g-bits)
+28. [acedia](https://www.namebase.io/domains/acedia)
+29. [luxuria](https://www.namebase.io/domains/luxuria)
+28. [avaritia](https://www.namebase.io/domains/avaritia)
+29. [pixmain](https://www.namebase.io/domains/pixmain)
+30. [saligia](https://www.namebase.io/domains/saligia)
+31. [saligiare](https://www.namebase.io/domains/saligiare)
+32. [kweichow-moutai](https://www.namebase.io/domains/kweichow-moutai)
+33. [ioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioi](https://www.namebase.io/domains/ioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioi)
+34. [iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii](https://www.namebase.io/domains/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)
+35. [fakefans](https://www.namebase.io/domains/fakefans)
+36. [](https://www.namebase.io/domains/)
+
+
 
 ## Chinese Domain
 1. [马里奥](https://www.namebase.io/domains/xn--hus952kiof)
@@ -32,7 +48,10 @@ List my friend owend HNS domain for selling
 3. [被碰瓷的韭菜](https://www.namebase.io/domains/xn--4ly06avzc6wt0zfytz)
 6. [哆啦a梦](https://www.namebase.io/domains/xn--a-2h9a4s792d)
 7. [宅文化](https://www.namebase.io/domains/xn--cjr19qvti)
-8. [](https://www.namebase.io/domains/)
+8. [傲慢](https://www.namebase.io/domains/xn--u0qs02b)
+9. [懒惰](https://www.namebase.io/domains/xn--nfuot)
+10. [🐮🍺](https://www.namebase.io/domains/xn--xjhhl)
+11. [](https://www.namebase.io/domains/)
 
 
 ## Korea Domain
@@ -46,7 +65,9 @@ List my friend owend HNS domain for selling
 
 ## Other Domain
 1. [προμηθεύσ](https://www.namebase.io/domains/xn--qxaddoofhv3g)
-2. [](https://www.namebase.io/domains/)
+2. [ox-__-xo](https://www.namebase.io/domains/ox-__-xo)
+3. [o__o](https://www.namebase.io/domains/o__o)
+4. [](https://www.namebase.io/domains/)
 
 
 
