@@ -6,18 +6,17 @@ List my friend owend HNS domain for selling
 2. [cosboy](https://www.namebase.io/domains/cosboy)
 3. [mifans](https://www.namebase.io/domains/mifans)
     - 小米公司：米粉 
+    - Xiaomi Corporation：mi fans
 5. [mihayoo](https://www.namebase.io/domains/mihayoo)
-    - 游戏公司：米哈游 
+    - 米哈游网络科技股份有限公司
+    - miHoYo Co., Ltd.
 7. [ohayoo](https://www.namebase.io/domains/ohayoo)
-    - 游戏公司
-7. [ohayoo](https://www.namebase.io/domains/ohayoo) 
-    - 游戏公司
-9. [ohayoo](https://www.namebase.io/domains/ohayoo)
     - 游戏公司
 12. [nuverse](https://www.namebase.io/domains/nuverse)
     - 游戏公司
 14. [netdragon](https://www.namebase.io/domains/netdragon)
     - 网龙
+    - NetDragon Websoft
 16. [g-bits](https://www.namebase.io/domains/g-bits)
     - 游戏公司：吉比特
 18. [smics](https://www.namebase.io/domains/smics)
@@ -26,33 +25,38 @@ List my friend owend HNS domain for selling
 21. [kweichow-moutai](https://www.namebase.io/domains/kweichow-moutai)
     - 贵州茅台
 23. [kweichow·moutai](https://www.namebase.io/domains/xn--kweichowmoutai-2xa)
-24. [kweichow](https://www.namebase.io/domains/kweichow)
+    - 贵州茅台
+25. [kweichow](https://www.namebase.io/domains/kweichow)
     - 贵州
 26. [china-moutai](https://www.namebase.io/domains/china-moutai)
-27. [biotherm](https://www.namebase.io/domains/biotherm)
-28. [mangotv](https://www.namebase.io/domains/mangotv)
-29. [gakkier](https://www.namebase.io/domains/gakkier)
-30. [dolor·sawalon·zerlz](https://www.namebase.io/domains/xn--dolorsawalonzerlz-p2ah)
-31. [linkstart](https://www.namebase.io/domains/linkstart)
-32. [zerlz](https://www.namebase.io/domains/zerlz)
-33. [netflixpay](https://www.namebase.io/domains/netflixpay)
-34. [2switch](https://www.namebase.io/domains/2switch)
-35. [2exchange](https://www.namebase.io/domains/2exchange)
-36. [mikeash](https://www.namebase.io/domains/mikeash)
-37. [wishyourich](https://www.namebase.io/domains/wishyourich)
-38. [desgard](https://www.namebase.io/domains/desgard)
-39. [halfrost](https://www.namebase.io/domains/halfrost)
-40. [draveness](https://www.namebase.io/domains/draveness)
-41. [acedia](https://www.namebase.io/domains/acedia)
-42. [luxuria](https://www.namebase.io/domains/luxuria)
-43. [avaritia](https://www.namebase.io/domains/avaritia)
-44. [pixmain](https://www.namebase.io/domains/pixmain)
-45. [saligia](https://www.namebase.io/domains/saligia)
-46. [saligiare](https://www.namebase.io/domains/saligiare)
-47. [ioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioi](https://www.namebase.io/domains/ioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioi)
-48. [iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii](https://www.namebase.io/domains/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)
-49. [fakefans](https://www.namebase.io/domains/fakefans)
-50. [](https://www.namebase.io/domains/)
+    - 中国茅台
+28. [biotherm](https://www.namebase.io/domains/biotherm)
+    - 化妆品：碧欧泉
+29. [mangotv](https://www.namebase.io/domains/mangotv)
+    - 芒果电视
+30. [gakkier](https://www.namebase.io/domains/gakkier)
+31. [dolor·sawalon·zerlz](https://www.namebase.io/domains/xn--dolorsawalonzerlz-p2ah)
+32. [linkstart](https://www.namebase.io/domains/linkstart)
+33. [zerlz](https://www.namebase.io/domains/zerlz)
+34. [netflixpay](https://www.namebase.io/domains/netflixpay)
+35. [2switch](https://www.namebase.io/domains/2switch)
+36. [2exchange](https://www.namebase.io/domains/2exchange)
+37. [mikeash](https://www.namebase.io/domains/mikeash)
+38. [wishyourich](https://www.namebase.io/domains/wishyourich)
+    - 恭喜发财
+39. [desgard](https://www.namebase.io/domains/desgard)
+40. [halfrost](https://www.namebase.io/domains/halfrost)
+41. [draveness](https://www.namebase.io/domains/draveness)
+42. [acedia](https://www.namebase.io/domains/acedia)
+43. [luxuria](https://www.namebase.io/domains/luxuria)
+44. [avaritia](https://www.namebase.io/domains/avaritia)
+45. [pixmain](https://www.namebase.io/domains/pixmain)
+46. [saligia](https://www.namebase.io/domains/saligia)
+47. [saligiare](https://www.namebase.io/domains/saligiare)
+48. [ioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioi](https://www.namebase.io/domains/ioioioioioioioioioioioioioioioioioioioioioioioioioioioioioioi)
+49. [iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii](https://www.namebase.io/domains/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)
+50. [fakefans](https://www.namebase.io/domains/fakefans)
+51. [](https://www.namebase.io/domains/)
 
 
 
