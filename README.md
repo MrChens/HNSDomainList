@@ -1,6 +1,8 @@
 # HNS
 List my friend owend HNS domain for selling
 
+If you want put your domain here, just PR.
+
 ## English Domain
 1. [cosgirl](https://www.namebase.io/domains/cosgirl)
 2. [cosboy](https://www.namebase.io/domains/cosboy)
