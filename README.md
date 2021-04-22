@@ -71,7 +71,8 @@ If you want put your domain here, just PR.
 8. [傲慢](https://www.namebase.io/domains/xn--u0qs02b)
 9. [懒惰](https://www.namebase.io/domains/xn--nfuot)
 11. [暴怒](https://www.namebase.io/domains/xn--b8to1m)
-12. [](https://www.namebase.io/domains/)
+12. [弈](https://www.namebase.io/domains/xn--p0t)
+13. [](https://www.namebase.io/domains/)
 
 
 ## Korea Domain
@@ -88,7 +89,9 @@ If you want put your domain here, just PR.
 2. [ox-__-xo](https://www.namebase.io/domains/ox-__-xo)
 3. [o__o](https://www.namebase.io/domains/o__o)
 4. [🐮🍺](https://www.namebase.io/domains/xn--xjhhl)
-5. [](https://www.namebase.io/domains/)
+5. [☾🔭𖨆](https://www.namebase.io/domains/xn--c5h4359ini9c)
+6. [𖨆](https://www.namebase.io/domains/xn--kt9e)
+7. [](https://www.namebase.io/domains/)
 
 
 
