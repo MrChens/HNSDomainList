@@ -26,9 +26,11 @@ If you want put your domain here, just PR.
 18. [smics](https://www.namebase.io/domains/smics)
     - 中芯国际
 20. [otakus](https://www.namebase.io/domains/otakus)
-21. [kweichow-moutai](https://www.namebase.io/domains/kweichow-moutai)
+21. [meiyapico](https://www.namebase.io/domains/meiyapico)
+    - [美亚柏科](http://www.300188.cn)
+23. [kweichow-moutai](https://www.namebase.io/domains/kweichow-moutai)
     - 贵州茅台
-23. [kweichow·moutai](https://www.namebase.io/domains/xn--kweichowmoutai-2xa)
+24. [kweichow·moutai](https://www.namebase.io/domains/xn--kweichowmoutai-2xa)
     - 贵州茅台
 25. [kweichow](https://www.namebase.io/domains/kweichow)
     - 贵州
