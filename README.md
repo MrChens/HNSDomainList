@@ -88,12 +88,16 @@ If you want put your domain here, just PR.
 
 ## Other Domain
 1. [προμηθεύσ](https://www.namebase.io/domains/xn--qxaddoofhv3g)
-2. [ox-__-xo](https://www.namebase.io/domains/ox-__-xo)
-3. [o__o](https://www.namebase.io/domains/o__o)
-4. [🐮🍺](https://www.namebase.io/domains/xn--xjhhl)
-5. [☾🔭𖨆](https://www.namebase.io/domains/xn--c5h4359ini9c)
-6. [𖨆](https://www.namebase.io/domains/xn--kt9e)
-7. [](https://www.namebase.io/domains/)
+3. [o0ox-__-xo0o](https://www.namebase.io/domains/o0ox-__-xo0o)
+    - sold for 50HNS
+6. [ox-__-xo](https://www.namebase.io/domains/ox-__-xo)
+    - sold for 65HNS
+7. [o__o](https://www.namebase.io/domains/o__o)
+    - sold for 250HNS
+8. [🐮🍺](https://www.namebase.io/domains/xn--xjhhl)
+9. [☾🔭𖨆](https://www.namebase.io/domains/xn--c5h4359ini9c)
+10. [𖨆](https://www.namebase.io/domains/xn--kt9e)
+11. [](https://www.namebase.io/domains/)
 
 
 
