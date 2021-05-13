@@ -63,8 +63,10 @@ If you want put your domain here, just PR.
 49. [iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii](https://www.namebase.io/domains/iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii)
 50. [fakefans](https://www.namebase.io/domains/fakefans)
 51. [escap](https://www.namebase.io/domains/escap)
-52. [](https://www.namebase.io/domains/)
-
+52. [sawalon](https://www.namebase.io/domains/sawalon)
+53. [escap](https://www.namebase.io/domains/escap)
+54. [meetyou](https://www.namebase.io/domains/meetyou)
+55. [](https://www.namebase.io/domains/)
 
 
 ## Chinese Domain
@@ -77,8 +79,9 @@ If you want put your domain here, just PR.
 9. [懒惰](https://www.namebase.io/domains/xn--nfuot)
 11. [暴怒](https://www.namebase.io/domains/xn--b8to1m)
 12. [弈](https://www.namebase.io/domains/xn--p0t)
-13. [](https://www.namebase.io/domains/)
-
+13. [嫉妒](https://www.namebase.io/domains/xn--rvs11a)
+14. [贪婪](https://www.namebase.io/domains/xn--x1sx49i)
+15. [](https://www.namebase.io/domains/)
 
 ## Korea Domain
 1. [](https://www.namebase.io/domains/)
