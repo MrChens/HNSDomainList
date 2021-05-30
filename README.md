@@ -64,9 +64,9 @@ If you want put your domain here, just PR.
 50. [fakefans](https://www.namebase.io/domains/fakefans)
 51. [escap](https://www.namebase.io/domains/escap)
 52. [sawalon](https://www.namebase.io/domains/sawalon)
-53. [escap](https://www.namebase.io/domains/escap)
 54. [meetyou](https://www.namebase.io/domains/meetyou)
-55. [](https://www.namebase.io/domains/)
+55. [bytelabs](https://www.namebase.io/domains/bytelabs)
+56. [](https://www.namebase.io/domains/)
 
 
 ## Chinese Domain
@@ -75,13 +75,39 @@ If you want put your domain here, just PR.
 3. [被碰瓷的韭菜](https://www.namebase.io/domains/xn--4ly06avzc6wt0zfytz)
 6. [哆啦a梦](https://www.namebase.io/domains/xn--a-2h9a4s792d)
 7. [宅文化](https://www.namebase.io/domains/xn--cjr19qvti)
-8. [傲慢](https://www.namebase.io/domains/xn--u0qs02b)
-9. [懒惰](https://www.namebase.io/domains/xn--nfuot)
+8. [弈](https://www.namebase.io/domains/xn--p0t)
+9. [傲慢](https://www.namebase.io/domains/xn--u0qs02b)
+10. [懒惰](https://www.namebase.io/domains/xn--nfuot)
 11. [暴怒](https://www.namebase.io/domains/xn--b8to1m)
-12. [弈](https://www.namebase.io/domains/xn--p0t)
 13. [嫉妒](https://www.namebase.io/domains/xn--rvs11a)
 14. [贪婪](https://www.namebase.io/domains/xn--x1sx49i)
-15. [](https://www.namebase.io/domains/)
+15. [色欲](https://www.namebase.io/domains/xn--okwx90c)
+16. [暴食](https://www.namebase.io/domains/xn--tmvs03i)
+17. [双鱼座](https://www.namebase.io/domains/xn--joro6w073c)
+     - 2.19-3.20
+19. [白羊座]()
+    - 3.21-4.19
+21. [金牛座](https://www.namebase.io/domains/xn--xxtn25bl4w)
+22. -4.20-5.20
+23. [双子座]()
+24. -5.21-6.21
+25. [巨蟹座]()
+26. -6.22-7.22
+27. [狮子座](https://www.namebase.io/domains/xn--i8sq1f5tz)
+28. -7.23-8.22
+29. [处女座]()
+30. -8.23-9.22
+31. [天秤座]()
+32. -9.23-10.23
+33. [天蝎座]()
+34. -10.24-11.22
+35. [射手座](https://www.namebase.io/domains/xn--net44d48d)
+36. -11.23-12.21
+37. [魔蝎座]()
+38. -12.22-1.19
+39. [水瓶座]()
+40. -1.20-2.18
+41. 
 
 ## Korea Domain
 1. [](https://www.namebase.io/domains/)
@@ -105,7 +131,8 @@ If you want put your domain here, just PR.
 10. [𖨆](https://www.namebase.io/domains/xn--kt9e)
 11. [o¿o](https://www.namebase.io/domains/xn--oo-pfa)
 12. [x¿x](https://www.namebase.io/domains/xn--xx-pfa)
-13. [](https://www.namebase.io/domains/)
+13. [v¿v]( https://www.namebase.io/domains/xn--vv-pfa)
+14.
 
 
 
