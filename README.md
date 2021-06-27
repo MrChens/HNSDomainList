@@ -144,6 +144,7 @@ If you want put your domain here, just PR.
 11. [o¿o](https://www.namebase.io/domains/xn--oo-pfa)
 12. [x¿x](https://www.namebase.io/domains/xn--xx-pfa)
 13. [v¿v]( https://www.namebase.io/domains/xn--vv-pfa)
+    - sold for 100HNS
 14.
 
 
