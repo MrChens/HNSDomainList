@@ -140,7 +140,9 @@ If you want put your domain here, just PR.
     - sold for 250HNS
 8. [🐮🍺](https://www.namebase.io/domains/xn--xjhhl)
 9. [☾🔭𖨆](https://www.namebase.io/domains/xn--c5h4359ini9c)
+    - sold for 100HNS
 10. [𖨆](https://www.namebase.io/domains/xn--kt9e)
+    - sold for 75HNS
 11. [o¿o](https://www.namebase.io/domains/xn--oo-pfa)
 12. [x¿x](https://www.namebase.io/domains/xn--xx-pfa)
 13. [v¿v]( https://www.namebase.io/domains/xn--vv-pfa)
