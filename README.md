@@ -1,3 +1,8 @@
+
+My dLink 
+1. [七宗罪](bytelabs.hns.to)
+2. [12星座](starsign.bytelabs.hns.to)
+
 # HNS
 List my friend owend HNS domain for selling
 
