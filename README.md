@@ -66,7 +66,9 @@ If you want put your domain here, just PR.
 52. [sawalon](https://www.namebase.io/domains/sawalon)
 54. [meetyou](https://www.namebase.io/domains/meetyou)
 55. [bytelabs](https://www.namebase.io/domains/bytelabs)
-56. [](https://www.namebase.io/domains/)
+56. [nowgotohappy](https://www.namebase.io/domains/nowgotohappy)
+57. [tiktoklabs](https://www.namebase.io/domains/tiktoklabs)
+58. [](https://www.namebase.io/domains/)
 
 
 ## Chinese Domain
@@ -87,27 +89,31 @@ If you want put your domain here, just PR.
      - 2.19-3.20
 19. [白羊座]()
     - 3.21-4.19
+    - lost, auction by other people
 21. [金牛座](https://www.namebase.io/domains/xn--xxtn25bl4w)
     - 4.20-5.20
 23. [双子座]()
     - 5.21-6.21
-25. [巨蟹座]()
+    - lost, auction by other people
+25. [巨蟹座](https://www.namebase.io/domains/xn--hstoqu73h)
     - 6.22-7.22
 27. [狮子座](https://www.namebase.io/domains/xn--i8sq1f5tz)
     - 7.23-8.22
 29. [处女座]()
     - 8.23-9.22
-31. [天秤座]()
+    - lost, auction by other people
+31. [天秤座](https://www.namebase.io/domains/xn--rsss1kxz0a)
     - 9.23-10.23
-33. [天蝎座]()
+33. [天蝎座](https://www.namebase.io/domains/xn--rsss1k973b)
     - 10.24-11.22
 35. [射手座](https://www.namebase.io/domains/xn--net44d48d)
     - 11.23-12.21
-37. [魔蝎座]()
+37. [魔蝎座](https://www.namebase.io/domains/xn--xxt01kq00a)
     - 12.22-1.19
-39. [水瓶座]()
+39. [水瓶座](https://www.namebase.io/domains/xn--xxto51agyg)
     - 1.20-2.18
-41. 
+41. [青花瓷](https://www.namebase.io/domains/xn--4lyt60aw6p)
+42. [朝夕光年](https://www.namebase.io/domains/xn--54qw3q5veknk)
 
 ## Korea Domain
 1. [](https://www.namebase.io/domains/)
