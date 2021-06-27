@@ -68,7 +68,8 @@ If you want put your domain here, just PR.
 55. [bytelabs](https://www.namebase.io/domains/bytelabs)
 56. [nowgotohappy](https://www.namebase.io/domains/nowgotohappy)
 57. [tiktoklabs](https://www.namebase.io/domains/tiktoklabs)
-58. [](https://www.namebase.io/domains/)
+58. [citifinancial](https://www.namebase.io/domains/citifinancial)
+59. [](https://www.namebase.io/domains/)
 
 
 ## Chinese Domain
