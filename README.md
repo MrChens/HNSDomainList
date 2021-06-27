@@ -4,8 +4,8 @@ List my friend owend HNS domain for selling
 If you want put your domain here, just PR.
 
 ## My friends dLink 
-1. [七宗罪](bytelabs.hns.to)
-2. [12星座](starsign.bytelabs.hns.to)
+1. [七宗罪](bytelabs.hns.to) bytelabs.hns.to
+2. [12星座](starsign.bytelabs.hns.to) starsign.bytelabs.hns.to
 
 
 ## English Domain
