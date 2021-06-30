@@ -147,8 +147,13 @@ If you want put your domain here, just PR.
 12. [x¿x](https://www.namebase.io/domains/xn--xx-pfa)
 13. [v¿v]( https://www.namebase.io/domains/xn--vv-pfa)
     - sold for 100HNS
-14.
-
+<!-- 14. [सगरमाथा]()
+    - 珠穆朗玛峰 尼泊尔语
+15. [ཇོ་མོ་གླང་མ་]()
+    - 珠穆朗玛峰 藏语
+16. [Qomolangma]()
+    - 珠穆朗玛峰
+-->
 
 
 
