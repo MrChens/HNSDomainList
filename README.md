@@ -17,7 +17,7 @@ If you want put your domain here, just PR.
     - 小米公司：米粉 
     - Xiaomi Corporation：mi fans
 6. [mihayoo](https://www.namebase.io/domains/mihayoo)
-    - 米哈游网络科技股份有限公司
+    - [米哈游网络科技股份有限公司](https://www.mihayo.com/company.html)
     - miHoYo Co., Ltd.
 7. [ohayoo](https://www.namebase.io/domains/ohayoo)
     - 游戏公司
