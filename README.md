@@ -22,7 +22,8 @@ If you want put your domain here, just PR.
 7. [ohayoo](https://www.namebase.io/domains/ohayoo)
     - 游戏公司
 12. [nuverse](https://www.namebase.io/domains/nuverse)
-    - 游戏公司
+   - [字节跳动游戏官网](https://www.nvsgames.cn)
+   -  中文名:朝夕光年
 14. [netdragon](https://www.namebase.io/domains/netdragon)
     - 网龙
     - NetDragon Websoft
@@ -120,6 +121,8 @@ If you want put your domain here, just PR.
     - 1.20-2.18
 41. [青花瓷](https://www.namebase.io/domains/xn--4lyt60aw6p)
 42. [朝夕光年](https://www.namebase.io/domains/xn--54qw3q5veknk)
+   - [字节跳动游戏官网](https://www.nvsgames.cn)
+   - 英文名:NUVERSE
 
 ## Korea Domain
 1. [](https://www.namebase.io/domains/)
