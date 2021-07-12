@@ -153,14 +153,15 @@ If you want put your domain here, just PR.
 14. [oᗣo](https://www.namebase.io/domains/xn--oo-lon)
 15. [vᗣv](https://www.namebase.io/domains/xn--vv-lon)
 16. [iᗣi](https://www.namebase.io/domains/xn--ii-lon)
+17. [😊😘😘](https://www.namebase.io/domains/xn--o28h2aa)
 
-<!-- 14. [सगरमाथा]()
+14. [सगरमाथा](https://www.namebase.io/domains/xn--31b2a0ah2b0bb)
     - 珠穆朗玛峰 尼泊尔语
-15. [ཇོ་མོ་གླང་མ་]()
+15. [ཇོ་མོ་གླང་མ་](https://www.namebase.io/domains/xn--nbdaaa7ymar1le76ac67d)
     - 珠穆朗玛峰 藏语
-16. [Qomolangma]()
+16. [qomolangma](https://www.namebase.io/domains/qomolangma)
     - 珠穆朗玛峰
--->
+
 
 
 
