@@ -75,9 +75,10 @@ If you want put your domain here, just PR.
 56. [nowgotohappy](https://www.namebase.io/domains/nowgotohappy)
 57. [tiktoklabs](https://www.namebase.io/domains/tiktoklabs)
 58. [citifinancial](https://www.namebase.io/domains/citifinancial)
-59. [tiktokstudio](https://www.namebase.io/domains/tiktokstudio)
-60. [gdcoin](https://www.namebase.io/domains/gdcoin)
-61. [apollos](https://www.namebase.io/domains/apollos)
+59. [citi-financial](https://www.namebase.io/domains/citi-financial)
+60. [tiktokstudio](https://www.namebase.io/domains/tiktokstudio)
+61. [gdcoin](https://www.namebase.io/domains/gdcoin)
+62. [apollos](https://www.namebase.io/domains/apollos)
 
 
 ## Chinese Domain
