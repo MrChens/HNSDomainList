@@ -79,6 +79,7 @@ If you want put your domain here, just PR.
 60. [tiktokstudio](https://www.namebase.io/domains/tiktokstudio)
 61. [gdcoin](https://www.namebase.io/domains/gdcoin)
 62. [apollos](https://www.namebase.io/domains/apollos)
+63. [richardlee](https://www.namebase.io/domains/richardlee)
 
 
 ## Chinese Domain
@@ -155,8 +156,9 @@ If you want put your domain here, just PR.
     - sold for 100HNS
 14. [oᗣo](https://www.namebase.io/domains/xn--oo-lon)
 15. [vᗣv](https://www.namebase.io/domains/xn--vv-lon)
-16. [iᗣi](https://www.namebase.io/domains/xn--ii-lon)
-17. [😊😘😘](https://www.namebase.io/domains/xn--o28h2aa)
+16. [xᗣx](https://www.namebase.io/domains/xn--xx-lon)
+17. [iᗣi](https://www.namebase.io/domains/xn--ii-lon)
+18. [😊😘😘](https://www.namebase.io/domains/xn--o28h2aa)
 
 14. [सगरमाथा](https://www.namebase.io/domains/xn--31b2a0ah2b0bb)
     - 珠穆朗玛峰 尼泊尔语
