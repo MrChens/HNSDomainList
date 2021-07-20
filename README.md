@@ -80,6 +80,11 @@ If you want put your domain here, just PR.
 61. [gdcoin](https://www.namebase.io/domains/gdcoin)
 62. [apollos](https://www.namebase.io/domains/apollos)
 63. [richardlee](https://www.namebase.io/domains/richardlee)
+64. [robloxstudio](https://www.namebase.io/domains/robloxstudio)
+65. [satoshivpn](https://www.namebase.io/domains/satoshivpn)
+66. [nvsgames](https://www.namebase.io/domains/nvsgames)
+67. [mihayogames](https://www.namebase.io/domains/mihayogames)
+68. [chinamusic](https://www.namebase.io/domains/chinamusic)
 
 
 ## Chinese Domain
