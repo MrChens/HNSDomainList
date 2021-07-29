@@ -86,6 +86,11 @@ If you want put your domain here, just PR.
 67. [mihayogames](https://www.namebase.io/domains/mihayogames)
 68. [chinamusic](https://www.namebase.io/domains/chinamusic)
 69. [ahogirl](https://www.namebase.io/domains/ahogirl)
+70. [tomachi](https://www.namebase.io/domains/tomachi)
+71. [avaritiastock](https://www.namebase.io/domains/avaritiastock)
+72. [travelshop](https://www.namebase.io/domains/travelshop)
+73. [chuchuyeah](https://www.namebase.io/domains/chuchuyeah)
+    - 《小林家的龙女仆》 主题曲
 
 
 ## Chinese Domain
