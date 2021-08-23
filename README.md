@@ -173,6 +173,9 @@ If you want put your domain here, just PR.
 16. [xᗣx](https://www.namebase.io/domains/xn--xx-lon)
 17. [iᗣi](https://www.namebase.io/domains/xn--ii-lon)
 18. [😊😘😘](https://www.namebase.io/domains/xn--o28h2aa)
+19. [🌄🌇🌅🌃🌌](https://www.namebase.io/domains/xn--jg8hbdh1a)
+20. [🌏☄️](https://www.namebase.io/domains/xn--o3h1379n)
+21. [🌍☄️](https://www.namebase.io/domains/xn--o3hx379n)
 
 14. [सगरमाथा](https://www.namebase.io/domains/xn--31b2a0ah2b0bb)
     - 珠穆朗玛峰 尼泊尔语
