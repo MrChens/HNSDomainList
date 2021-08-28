@@ -22,6 +22,7 @@ If you want put your domain here, just PR.
 7. [ohayoo](https://www.namebase.io/domains/ohayoo)
     - 游戏公司
 12. [nuverse](https://www.namebase.io/domains/nuverse)
+13. [nvsgames](https://www.namebase.io/domains/nvsgames)
    - [字节跳动游戏官网](https://www.nvsgames.cn)
    -  中文名:朝夕光年
 14. [netdragon](https://www.namebase.io/domains/netdragon)
@@ -82,7 +83,6 @@ If you want put your domain here, just PR.
 63. [richardlee](https://www.namebase.io/domains/richardlee)
 64. [robloxstudio](https://www.namebase.io/domains/robloxstudio)
 65. [satoshivpn](https://www.namebase.io/domains/satoshivpn)
-66. [nvsgames](https://www.namebase.io/domains/nvsgames)
 67. [mihayogames](https://www.namebase.io/domains/mihayogames)
 68. [mihoyogames](https://www.namebase.io/domains/mihoyogames)
 69. [chinamusic](https://www.namebase.io/domains/chinamusic)
