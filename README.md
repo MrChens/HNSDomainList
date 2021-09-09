@@ -103,6 +103,12 @@ If you want put your domain here, just PR.
     - [pico](https://www.pico-interactive.com)
     - [北京小鸟看看科技有限公司](https://www.pico-interactive.com)
     - 团队持续致力于虚拟现实技术、产品与交互技术研发设计、市场与开发者拓展、产品与内容支持、VR大规模行业应用与客户服务
+78. [mihoyoo](https://www.namebase.io/domains/mihoyoo)
+79. [joytopia](https://www.namebase.io/domains/joytopia)
+    - 德国汽车制造商宝马正式推出了虚拟世界 “JOYTOPIA”
+    - [welcome-to-joytopia](https://www.bmw.com/en/events/iaa2021/welcome-to-joytopia.html)
+    - 
+81. 
 
 
 ## Chinese Domain
