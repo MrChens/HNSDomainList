@@ -11,3 +11,6 @@
 2. 点击 导入（Import）
 3. 然后设置ETH和WHNS数量，然后点击Swap
 4. 然后点击钱包的确认就行
+
+## 评估价值
+1. [niami](https://www.niami.io)
