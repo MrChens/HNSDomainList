@@ -99,6 +99,10 @@ If you want put your domain here, just PR.
     - 《小林家的龙女仆》 主题曲
 75. [aliceswap](https://www.namebase.io/domains/aliceswap)
 76. [archgos](https://www.namebase.io/domains/archgos)
+77. [pico-interactive](https://www.namebase.io/domains/pico-interactive)
+    - [pico](https://www.pico-interactive.com)
+    - [北京小鸟看看科技有限公司](https://www.pico-interactive.com)
+    - 团队持续致力于虚拟现实技术、产品与交互技术研发设计、市场与开发者拓展、产品与内容支持、VR大规模行业应用与客户服务
 
 
 ## Chinese Domain
