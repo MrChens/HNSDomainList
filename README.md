@@ -127,31 +127,55 @@ If you want put your domain here, just PR.
 16. [暴食](https://www.namebase.io/domains/xn--tmvs03i)
 17. [双鱼座](https://www.namebase.io/domains/xn--joro6w073c)
      - 2.19-3.20
+     - [Pisces](https://en.wikipedia.org/wiki/Pisces_(astrology)), The Fish.
+     - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Pisces.svg/40px-Pisces.svg.png)
 19. [白羊座]()
     - 3.21-4.19
+    - [Aries](https://en.wikipedia.org/wiki/Aries_(astrology))，The Ram.
     - lost, auction by other people
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aries.svg/40px-Aries.svg.png)
 21. [金牛座](https://www.namebase.io/domains/xn--xxtn25bl4w)
     - 4.20-5.20
+    - [Taurus](https://en.wikipedia.org/wiki/Taurus_(astrology)), The Bull.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Taurus.svg/40px-Taurus.svg.png)
 23. [双子座]()
     - 5.21-6.21
+    - [Gemini](https://en.wikipedia.org/wiki/Gemini_(astrology)), The Twins.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gemini.svg/40px-Gemini.svg.png)
     - lost, auction by other people
 25. [巨蟹座](https://www.namebase.io/domains/xn--hstoqu73h)
     - 6.22-7.22
+    - [Cancer](https://en.wikipedia.org/wiki/Cancer_(astrology)), The Crab.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cancer.svg/40px-Cancer.svg.png)
 27. [狮子座](https://www.namebase.io/domains/xn--i8sq1f5tz)
     - 7.23-8.22
+    - [Leo](https://en.wikipedia.org/wiki/Leo_(astrology)), The Lion.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Leo.svg/40px-Leo.svg.png)
 29. [处女座]()
     - 8.23-9.22
+    - [Virgo](https://en.wikipedia.org/wiki/Virgo_(astrology)), The Maiden.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Virgo.svg/40px-Virgo.svg.png)
     - lost, auction by other people
 31. [天秤座](https://www.namebase.io/domains/xn--rsss1kxz0a)
     - 9.23-10.23
+    - [Libra](https://en.wikipedia.org/wiki/Libra_(astrology)), The Scales.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Libra.svg/48px-Libra.svg.png)
 33. [天蝎座](https://www.namebase.io/domains/xn--rsss1k973b)
     - 10.24-11.22
+    - [Scorpio](https://en.wikipedia.org/wiki/Scorpio_(astrology)), The Scorpion.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Scorpio.svg/40px-Scorpio.svg.png)
 35. [射手座](https://www.namebase.io/domains/xn--net44d48d)
     - 11.23-12.21
+    - [Sagittarius](https://en.wikipedia.org/wiki/Sagittarius_(astrology)), The Archer.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Sagittarius.svg/40px-Sagittarius.svg.png)
 37. [魔蝎座](https://www.namebase.io/domains/xn--xxt01kq00a)
     - 12.22-1.19
+    - [Capricorn](https://en.wikipedia.org/wiki/Capricorn_(astrology)), The Goat.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Capricorn.svg/52px-Capricorn.svg.png)
 39. [水瓶座](https://www.namebase.io/domains/xn--xxto51agyg)
     - 1.20-2.18
+    - [Aquarius](https://en.wikipedia.org/wiki/Aquarius_(astrology)), The Waterbearer.
+    - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aquarius.svg/48px-Aquarius.svg.png)
 41. [青花瓷](https://www.namebase.io/domains/xn--4lyt60aw6p)
 42. [朝夕光年](https://www.namebase.io/domains/xn--54qw3q5veknk)
    - [字节跳动游戏官网](https://www.nvsgames.cn)
