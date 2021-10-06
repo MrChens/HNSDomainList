@@ -108,7 +108,9 @@ If you want put your domain here, just PR.
     - 德国汽车制造商宝马正式推出了虚拟世界 “JOYTOPIA”
     - [welcome-to-joytopia](https://www.bmw.com/en/events/iaa2021/welcome-to-joytopia.html)
     - 
-81. 
+81. [haoliners](https://www.namebase.io/domains/haoliners)
+    - 绘梦者新动画联盟
+    - [Haoliners_Animation_League](https://en.wikipedia.org/wiki/Haoliners_Animation_League)
 
 
 ## Chinese Domain
