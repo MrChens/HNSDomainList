@@ -10,38 +10,42 @@ If you want put your domain here, just PR.
 
 ## English Domain
 1. [cosgirl](https://www.namebase.io/domains/cosgirl)
-2. [cosboy](https://www.namebase.io/domains/cosboy)
-3. [reworlder](https://www.namebase.io/domains/reworlder)
+3. [cosboy](https://www.namebase.io/domains/cosboy)
+4. [dnsdex](https://www.namebase.io/domains/dnsdex)
+5. [babyhub](https://www.namebase.io/domains/babyhub)
+6. [bytedancestudio](https://www.namebase.io/domains/bytedancestudio)
+7. [bytedancelabs](https://www.namebase.io/domains/bytedancelabs)
+8. [reworlder](https://www.namebase.io/domains/reworlder)
     - Reworld是一款帮助有游戏创作梦想的你成为游戏制作人的产品
-5. [picointeractive](https://www.namebase.io/domains/picointeractive)
+9. [picointeractive](https://www.namebase.io/domains/picointeractive)
     - Pico专注于打造极致VR体验
-7. [vivoo](https://www.namebase.io/domains/vivoo)
-8. [kairosoft](https://www.namebase.io/domains/kairosoft)
+10. [vivoo](https://www.namebase.io/domains/vivoo)
+11. [kairosoft](https://www.namebase.io/domains/kairosoft)
     - 开罗游戏公司（Kairosoft Co.,LTD）
     - 是日本一家著名的智能手机游戏开发及发行公司，致力于开发和发行各种像素类模拟经营游戏
-9. [volocopter](https://www.namebase.io/domains/volocopter)
+12. [volocopter](https://www.namebase.io/domains/volocopter)
     - WE BRING URBAN air mobility to your life. :https://www.volocopter.com/
-10. [mifans](https://www.namebase.io/domains/mifans)
+13. [mifans](https://www.namebase.io/domains/mifans)
     - 小米公司：米粉 
     - Xiaomi Corporation：mi fans
-11. [mihayoo](https://www.namebase.io/domains/mihayoo)
+14. [mihayoo](https://www.namebase.io/domains/mihayoo)
     - [米哈游网络科技股份有限公司](https://www.mihayo.com/company.html)
     - miHoYo Co., Ltd.
-12. [ohayoo](https://www.namebase.io/domains/ohayoo)
+15. [ohayoo](https://www.namebase.io/domains/ohayoo)
     - 游戏公司
-13. [nuverse](https://www.namebase.io/domains/nuverse)
-14. [nvsgames](https://www.namebase.io/domains/nvsgames)
+16. [nuverse](https://www.namebase.io/domains/nuverse)
+17. [nvsgames](https://www.namebase.io/domains/nvsgames)
    - [字节跳动游戏官网](https://www.nvsgames.cn)
    -  中文名:朝夕光年
-15. [netdragon](https://www.namebase.io/domains/netdragon)
+18. [netdragon](https://www.namebase.io/domains/netdragon)
     - 网龙
     - NetDragon Websoft
-16. [g-bits](https://www.namebase.io/domains/g-bits)
+19. [g-bits](https://www.namebase.io/domains/g-bits)
     - 游戏公司：吉比特
-18. [smics](https://www.namebase.io/domains/smics)
+20. [smics](https://www.namebase.io/domains/smics)
     - 中芯国际
-20. [otakus](https://www.namebase.io/domains/otakus)
-21. [1hkt](https://www.namebase.io/domains/1hkt)
+21. [otakus](https://www.namebase.io/domains/otakus)
+22. [1hkt](https://www.namebase.io/domains/1hkt)
     - [艺画开天](http://www.1hkt.com)一家从原创动画切入产业链的泛娱乐公司
     - 艺画开天的代表作品为《灵笼》、《幻镜诺德琳》、《疯味英雄》、以及正在开发中的超大型动画长剧《三体》
     - 2018年2月10日，得到哔哩哔哩及腾讯产业共赢基金的数千万投资
@@ -187,8 +191,9 @@ If you want put your domain here, just PR.
     - [Aquarius](https://en.wikipedia.org/wiki/Aquarius_(astrology)), The Waterbearer.
     - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aquarius.svg/48px-Aquarius.svg.png)
 41. [青花瓷](https://www.namebase.io/domains/xn--4lyt60aw6p)
-42. [草蜢工作室](https://www.namebase.io/domains/xn--2qq421aovb6v1ez9d)
-43. [朝夕光年](https://www.namebase.io/domains/xn--54qw3q5veknk)
+42. [无用良品](https://www.namebase.io/domains/xn--jvr511blqlq2m)
+43. [草蜢工作室](https://www.namebase.io/domains/xn--2qq421aovb6v1ez9d)
+44. [朝夕光年](https://www.namebase.io/domains/xn--54qw3q5veknk)
    - [字节跳动游戏官网](https://www.nvsgames.cn)
    - 英文名:NUVERSE
 
