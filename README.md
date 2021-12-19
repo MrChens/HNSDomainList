@@ -11,24 +11,29 @@ If you want put your domain here, just PR.
 ## English Domain
 1. [cosgirl](https://www.namebase.io/domains/cosgirl)
 2. [cosboy](https://www.namebase.io/domains/cosboy)
-3. [kairosoft](https://www.namebase.io/domains/kairosoft)
+3. [reworlder](https://www.namebase.io/domains/reworlder)
+    - Reworld是一款帮助有游戏创作梦想的你成为游戏制作人的产品
+5. [picointeractive](https://www.namebase.io/domains/picointeractive)
+    - Pico专注于打造极致VR体验
+7. [vivoo](https://www.namebase.io/domains/vivoo)
+8. [kairosoft](https://www.namebase.io/domains/kairosoft)
     - 开罗游戏公司（Kairosoft Co.,LTD）
     - 是日本一家著名的智能手机游戏开发及发行公司，致力于开发和发行各种像素类模拟经营游戏
-5. [volocopter](https://www.namebase.io/domains/volocopter)
+9. [volocopter](https://www.namebase.io/domains/volocopter)
     - WE BRING URBAN air mobility to your life. :https://www.volocopter.com/
-6. [mifans](https://www.namebase.io/domains/mifans)
+10. [mifans](https://www.namebase.io/domains/mifans)
     - 小米公司：米粉 
     - Xiaomi Corporation：mi fans
-7. [mihayoo](https://www.namebase.io/domains/mihayoo)
+11. [mihayoo](https://www.namebase.io/domains/mihayoo)
     - [米哈游网络科技股份有限公司](https://www.mihayo.com/company.html)
     - miHoYo Co., Ltd.
-8. [ohayoo](https://www.namebase.io/domains/ohayoo)
+12. [ohayoo](https://www.namebase.io/domains/ohayoo)
     - 游戏公司
-12. [nuverse](https://www.namebase.io/domains/nuverse)
-13. [nvsgames](https://www.namebase.io/domains/nvsgames)
+13. [nuverse](https://www.namebase.io/domains/nuverse)
+14. [nvsgames](https://www.namebase.io/domains/nvsgames)
    - [字节跳动游戏官网](https://www.nvsgames.cn)
    -  中文名:朝夕光年
-14. [netdragon](https://www.namebase.io/domains/netdragon)
+15. [netdragon](https://www.namebase.io/domains/netdragon)
     - 网龙
     - NetDragon Websoft
 16. [g-bits](https://www.namebase.io/domains/g-bits)
@@ -182,7 +187,8 @@ If you want put your domain here, just PR.
     - [Aquarius](https://en.wikipedia.org/wiki/Aquarius_(astrology)), The Waterbearer.
     - ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aquarius.svg/48px-Aquarius.svg.png)
 41. [青花瓷](https://www.namebase.io/domains/xn--4lyt60aw6p)
-42. [朝夕光年](https://www.namebase.io/domains/xn--54qw3q5veknk)
+42. [草蜢工作室](https://www.namebase.io/domains/xn--2qq421aovb6v1ez9d)
+43. [朝夕光年](https://www.namebase.io/domains/xn--54qw3q5veknk)
    - [字节跳动游戏官网](https://www.nvsgames.cn)
    - 英文名:NUVERSE
 
