@@ -11,15 +11,18 @@ If you want put your domain here, just PR.
 ## English Domain
 1. [cosgirl](https://www.namebase.io/domains/cosgirl)
 2. [cosboy](https://www.namebase.io/domains/cosboy)
-3. [volocopter](https://www.namebase.io/domains/volocopter)
+3. [kairosoft](https://www.namebase.io/domains/kairosoft)
+    - 开罗游戏公司（Kairosoft Co.,LTD）
+    - 是日本一家著名的智能手机游戏开发及发行公司，致力于开发和发行各种像素类模拟经营游戏
+5. [volocopter](https://www.namebase.io/domains/volocopter)
     - WE BRING URBAN air mobility to your life. :https://www.volocopter.com/
-5. [mifans](https://www.namebase.io/domains/mifans)
+6. [mifans](https://www.namebase.io/domains/mifans)
     - 小米公司：米粉 
     - Xiaomi Corporation：mi fans
-6. [mihayoo](https://www.namebase.io/domains/mihayoo)
+7. [mihayoo](https://www.namebase.io/domains/mihayoo)
     - [米哈游网络科技股份有限公司](https://www.mihayo.com/company.html)
     - miHoYo Co., Ltd.
-7. [ohayoo](https://www.namebase.io/domains/ohayoo)
+8. [ohayoo](https://www.namebase.io/domains/ohayoo)
     - 游戏公司
 12. [nuverse](https://www.namebase.io/domains/nuverse)
 13. [nvsgames](https://www.namebase.io/domains/nvsgames)
