@@ -164,7 +164,7 @@ If you want put your domain here, just PR.
 117. [dolors](https://www.namebase.io/domains/dolors)
 118. [armira](https://www.namebase.io/domains/armira)
 119. [mirriad](https://www.namebase.io/domains/mirriad)
-    - https://www.mirriad.com/
+    - [www.mirriad.com](https://www.mirriad.com/)
 120. [tevie](https://www.namebase.io/domains/tevie)
 122. [](https://www.namebase.io/domains/)
 
