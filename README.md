@@ -1,3 +1,5 @@
+![ ](https://komarev.com/ghpvc/?username=theAnotherMe)
+<!-- count - 1000 is the real count hahhaha -->
 # HNS
 List my friend owend HNS domain for selling
 
