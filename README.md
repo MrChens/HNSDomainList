@@ -1,7 +1,7 @@
 ![ ](https://komarev.com/ghpvc/?username=theAnotherMe)
 <!-- count - 1000 is the real count hahhaha -->
 
-<iframe src="https://widget.nicehash.com/countdown" width="100%" height="350" scrolling="no" id="nhiframe"> </iframe>
+<iframe src="https://widget.nicehash.com/countdown/hns-halving-2023-04-26-12-00" width="400" height="350" scrolling="no" id="nhiframe"></iframe>
 
 # HNS
 List my friend owend HNS domain for selling
