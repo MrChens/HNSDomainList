@@ -3,6 +3,8 @@
 
 <iframe src="https://widget.nicehash.com/countdown/hns-halving-2023-04-26-12-00" width="400" height="350" scrolling="no" id="nhiframe"></iframe>
 
+https://e.hnsfans.com/names
+
 # HNS
 List my friend owend HNS domain for selling
 
