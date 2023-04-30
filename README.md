@@ -269,7 +269,7 @@ If you want put your domain here, just PR.
     - sold for 65HNS
 7. [o__o](https://www.namebase.io/domains/o__o)
     - sold for 250HNS
-8. [🐮🍺](https://www.namebase.io/domains/xn--xjhhl)
+8. [🐮🍺](https://www.namebase.io/domains/xn--xj8hhl)
 9. [☾🔭𖨆](https://www.namebase.io/domains/xn--c5h4359ini9c)
     - sold for 100HNS
 10. [𖨆](https://www.namebase.io/domains/xn--kt9e)
